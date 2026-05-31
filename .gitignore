@@ -8,3 +8,5 @@ build/
 .pytest_cache/
 .coverage
 htmlcov/
+/secretfiles/cryptex-android/.gradle
+secretfiles/mono_android_dec.pfx
