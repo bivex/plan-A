@@ -1,4 +1,3 @@
-
 __pycache__/
 *.pyc
 *.pyo
@@ -9,9 +8,3 @@ build/
 .pytest_cache/
 .coverage
 htmlcov/
-
-# Sensitive files
-secretfiles/
-*.pfx
-*.enc
-.DS_Store
